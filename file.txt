@@ -1,4 +1,0 @@
-This is a new text file
-Adding a new line
-Another line added
-New line added again
